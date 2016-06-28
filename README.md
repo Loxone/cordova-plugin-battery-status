@@ -33,7 +33,7 @@ This plugin provides an implementation of an old version of the [Battery Status 
 * batterycritical
 * batterylow
 
-Applications may use `window.addEventListener` to attach an event listener for any of the above events after the `deviceready` event fires.
+Applications may use `window.addEventListener` to attach an event listener for any of the above events after the `deviceready` event fires. Also update will be triggered after initializing the plugin.
 
 ## Installation
 
