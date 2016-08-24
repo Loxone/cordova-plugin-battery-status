@@ -114,7 +114,6 @@
     }
     
     [self updateBatteryStatus:nil];
-
 }
 
 /* turn off battery monitoring */
